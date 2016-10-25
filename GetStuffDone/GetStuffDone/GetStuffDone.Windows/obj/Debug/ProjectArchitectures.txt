@@ -1,0 +1,2 @@
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\GetStuffDone.Windows.csproj;neutral
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\GetStuffDone.csproj;neutral

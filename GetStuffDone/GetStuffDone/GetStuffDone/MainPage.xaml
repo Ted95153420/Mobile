@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GetStuffDone.MainPage">
+  <ContentPage.Content>
+    <StackLayout Padding="10">
+      <Label x:Name="lblNewTask" Text="New Task" FontSize="18" TextColor="Blue"/>
+      <Entry x:Name="entNewTask" Placeholder="Enter task description" WidthRequest="150"/>
+      <Entry x:Name="entPriority" Placeholder="Task Priority" WidthRequest="150"/>
+      <StackLayout Orientation="Horizontal">
+        <Label x:Name="lblDueDate" TextColor="Green" Text="Due Date" VerticalOptions="End"/>
+        <DatePicker x:Name="dtDeadlineDate" Opacity="100"/>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal">
+        <Label x:Name="lblDueTime" TextColor="Green" Text="Due Time" VerticalOptions="End"/>
+        <TimePicker x:Name="tmDeadlineTime" Opacity="100"/>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal">
+        <Button Text="Save" BackgroundColor="Green" WidthRequest="90" TextColor="White" Clicked="OnSave"/>
+        <Button Text="Cancel" BackgroundColor="Red" WidthRequest="90" TextColor="White" Clicked="OnCancel"/>
+        <Button Text="Review" BackgroundColor="Blue" WidthRequest="90" TextColor="White" Clicked="OnReview"/>
+      </StackLayout>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

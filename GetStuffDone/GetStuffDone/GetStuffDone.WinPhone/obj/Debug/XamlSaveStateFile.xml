@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone.winphone\obj\debug\intermediatexaml\getstuffdone.winphone.exe" HashGuid="9ecd6a29-ec5b-c81c-7cb7-49fd82a5eaf6" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone\bin\debug\getstuffdone.dll" HashGuid="f1c7ea4a-419e-ab55-d656-7f1f40b4a24b" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
