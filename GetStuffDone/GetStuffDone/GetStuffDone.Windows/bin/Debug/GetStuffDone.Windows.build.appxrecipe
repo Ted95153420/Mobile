@@ -28,6 +28,12 @@
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\bin\Debug\GetStuffDone.dll">
       <PackagePath>GetStuffDone.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\SQLite.Net-PCL.3.1.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>

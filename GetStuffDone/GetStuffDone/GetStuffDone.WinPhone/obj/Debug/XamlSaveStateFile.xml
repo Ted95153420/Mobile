@@ -1,7 +1,9 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone.winphone\obj\debug\intermediatexaml\getstuffdone.winphone.exe" HashGuid="9ecd6a29-ec5b-c81c-7cb7-49fd82a5eaf6" />
-    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone\bin\debug\getstuffdone.dll" HashGuid="f1c7ea4a-419e-ab55-d656-7f1f40b4a24b" />
+    <LocalAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone.winphone\obj\debug\intermediatexaml\getstuffdone.winphone.exe" HashGuid="9c3fe8af-4393-65d0-c82a-9ab8dca6d028" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\getstuffdone\getstuffdone\bin\debug\getstuffdone.dll" HashGuid="268c19da-40c2-4eef-0b50-f9f855e78835" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\sqlite.net.core-pcl.3.1.1\lib\portable-win8+net45+wp8+wpa81+monoandroid1+monotouch1\sqlite.net.dll" HashGuid="2223cbf7-68d4-e5e4-e5e4-a19696ad83b6" />
+    <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\sqlite.net-pcl.3.1.1\lib\portable-win81+wpa81\sqlite.net.platform.winrt.dll" HashGuid="1bc7eaa0-e36a-f105-20d8-c57b14216cea" />
     <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
     <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
     <ReferenceAssembly PathName="c:\develop\vs 15 projects\mobile\getstuffdone\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />

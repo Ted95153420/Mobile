@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
-namespace GetStuffDone
+namespace GetStuffDone.View
 {
     public partial class ReviewTasks : ContentPage
     {
-        public ReviewTasks(List<ToDoItem> toDoList)
+        public ReviewTasks()
         {
             InitializeComponent();
-            ToDoItems = toDoList;
-            BindingContext = this;
         }
         public List<ToDoItem> ToDoItems {
             get;
@@ -25,6 +23,12 @@ namespace GetStuffDone
         {
             ToDoItem toDoItem = args.Item as ToDoItem;
             DisplayAlert("Chosen", "You just tapped " + toDoItem.Name, "OK");
+        }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            lstToDoItems.ItemsSource = App.DataBase.GetToDos();
         }
     }
 }

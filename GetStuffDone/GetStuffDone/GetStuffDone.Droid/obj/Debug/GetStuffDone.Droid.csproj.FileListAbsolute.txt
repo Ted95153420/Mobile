@@ -4,6 +4,8 @@ C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bi
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\GetStuffDone.Droid-Signed.apk
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\FormsViewGroup.dll
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\GetStuffDone.dll
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\SQLite.Net.dll
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll

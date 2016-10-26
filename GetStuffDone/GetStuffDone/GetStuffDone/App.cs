@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GetStuffDone.Data;
+using GetStuffDone.View;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +11,20 @@ namespace GetStuffDone
 {
     public class App : Application
     {
+        private static ToDoDataBase database;
+
+        public static ToDoDataBase DataBase
+        {
+            get
+            {
+                if (null == database)
+                {
+                    database = new ToDoDataBase();
+                }
+                return database;
+            }
+        }
+
         public App()
         {
             // The root page of your application

@@ -28,17 +28,25 @@
     <AppXManifest Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-24T19:22:42.773</Modified>
+      <Modified>2016-10-26T20:16:59.544</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\bin\Debug\GetStuffDone.Windows.exe">
       <PackagePath>GetStuffDone.Windows.exe</PackagePath>
-      <Modified>2016-10-24T23:17:44.505</Modified>
+      <Modified>2016-10-26T20:16:57.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\bin\Debug\GetStuffDone.dll">
       <PackagePath>GetStuffDone.dll</PackagePath>
-      <Modified>2016-10-24T23:17:36.253</Modified>
+      <Modified>2016-10-26T20:16:11.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+      <Modified>2015-11-07T01:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\SQLite.Net-PCL.3.1.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-07T01:18:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
@@ -86,11 +94,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2016-10-24T19:22:22.978</Modified>
+      <Modified>2016-10-26T20:16:57.714</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2016-10-24T19:22:22.980</Modified>
+      <Modified>2016-10-26T20:16:57.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
@@ -123,7 +131,7 @@
     <AppxPackagedFile Include="C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-24T19:22:42.248</Modified>
+      <Modified>2016-10-26T20:16:58.784</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
