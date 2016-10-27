@@ -13,3 +13,7 @@ C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\obj\Debu
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\obj\Debug\GetStuffDone.csprojResolveAssemblyReference.cache
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\obj\Debug\GetStuffDone.dll.mdb
 C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\bin\Debug\GetStuffDone.dll.mdb
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\obj\Debug\GetStuffDone.dll.mdb
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\bin\Debug\GetStuffDone.dll.mdb
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\obj\Debug\GetStuffDone.dll.mdb
+C:\Develop\VS 15 Projects\Mobile\GetStuffDone\GetStuffDone\GetStuffDone\bin\Debug\GetStuffDone.dll.mdb
